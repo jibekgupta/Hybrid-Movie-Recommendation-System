@@ -1,0 +1,1 @@
+printf "data/\n*.csv\n" >> .gitignore
