@@ -250,8 +250,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/jibekgupta)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/jibekgupta)
+- GitHub: [@jibekgupta](https://github.com/jibekgupta)
+- LinkedIn: [Jibek Gupta](https://linkedin.com/in/jibekgupta)
 - Email: jibek.gupta@bison.howard.edu
 
 ---
