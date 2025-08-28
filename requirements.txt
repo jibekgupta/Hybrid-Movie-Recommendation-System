@@ -1,0 +1,12 @@
+# Hybrid Movie Recommender System - Requirements
+# Core dependencies for the movie recommendation system
+
+# data manipulation and analysis
+numpy>=1.24,<3
+pandas>=2.0,<3
+
+# machine learning and similarity computation
+scikit-learn>=1.3,<2
+scipy>=1.10,<2
+
+
