@@ -1,1 +1,3 @@
 printf "data/\n*.csv\n" >> .gitignore
+
+printf "data/\n*.csv\n.ipynb_checkpoints/\n.DS_Store\n" >> .gitignore
