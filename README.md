@@ -122,7 +122,7 @@ Input Movie → Collaborative Filtering (CF) ──┘
 
 ### Screenshots
 
-![Main Interface](screenshots/main_interface.png)
+![Main Interface](screenshots/Movie_Recommender.png)
 *Main application interface with search and recommendation panels*
 
 ## 📈 Performance
@@ -250,9 +250,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/jibekgupta)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/jibekgupta)
+- Email: jibek.gupta@bison.howard.edu
 
 ---
 
