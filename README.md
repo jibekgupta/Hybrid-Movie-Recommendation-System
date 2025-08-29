@@ -78,8 +78,8 @@ python hybrid_movie_recommender.py
 The system implements a **hybrid recommendation approach** that leverages the strengths of both content-based and collaborative filtering:
 
 ```
-Input Movie → Content Similarity (TF-IDF) ──┐
-                                            ├── Hybrid Score → Top-N Recommendations
+Input Movie → Content Similarity (TF-IDF)  ──┐
+                                             ├── Hybrid Score → Top-N Recommendations
 Input Movie → Collaborative Filtering (CF) ──┘
 ```
 
@@ -165,7 +165,7 @@ hybrid-movie-recommender/
 
 ### Customizable Parameters
 
-- **n_neighbors**: Number of similar items to consider (default: 50-100)
+- **n_neighbors**: Number of similar items to consider (default: 50-200)
 - **alpha**: Content vs CF weighting (0.0 = pure CF, 1.0 = pure content)
 - **top_n**: Number of recommendations to display (3-50)
 - **min_df/max_df**: TF-IDF document frequency thresholds
